@@ -12,3 +12,7 @@ function calculateTip() {
 if(billSize==100
     return calculateTip
 );
+
+var bills = [275, 40, 430];
+var tips = [return calculateTip,billSize];
+var totals = [125, 555, 44];

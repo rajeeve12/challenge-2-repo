@@ -5,3 +5,10 @@ if (300 > billSize > 50
 );
 
 console.log(tip&billSize + tip);
+
+function calculateTip() {
+    return tip == billSize * 1.5
+};
+if(billSize==100
+    return calculateTip
+);
